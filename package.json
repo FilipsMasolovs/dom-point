@@ -1,0 +1,27 @@
+{
+  "name": "dom-point",
+  "version": "1.0.0",
+  "description": "Right click instant dom-tree checker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilipsMasolovs/dom-point.git"
+  },
+  "keywords": [
+    "dom",
+    "dom-tree",
+    "html",
+    "html",
+    "dom",
+    "inspect"
+  ],
+  "author": "Filips Masolovs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FilipsMasolovs/dom-point/issues"
+  },
+  "homepage": "https://github.com/FilipsMasolovs/dom-point#readme"
+}
