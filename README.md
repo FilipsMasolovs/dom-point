@@ -13,7 +13,7 @@ MVP:
 
 The project is submited to npm and should be accessible there. If you face any issues feel free to contact me!
 ```
-npm install dom-point
+npm install dom-point --save-dev
 ```
 
 ## Contributing
